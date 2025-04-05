@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EL
 {
-    public class Asignacion
+    public class Asignacion //Esta rama es simbolica para representar la creacion de las entidades
     {
         public int ID { get; set; }
         public int ChoferID { get; set; }

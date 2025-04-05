@@ -1,0 +1,6 @@
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\EL\bin\Debug\EL.dll
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\EL\bin\Debug\EL.pdb
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\EL\obj\Debug\EL.csproj.AssemblyReference.cache
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\EL\obj\Debug\EL.dll
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\EL\obj\Debug\EL.pdb

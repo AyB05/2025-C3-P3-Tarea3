@@ -1,0 +1,53 @@
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.csproj.AssemblyReference.cache
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\BusControlApp.Form1.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.Properties.Resources.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.csproj.GenerateResource.cache
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\BusControlApp.MainForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.AutobusForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.ChoferForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.AsignacionForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.MainForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.RutaForm.resources
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.csproj.AssemblyReference.cache
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.AutobusForm.resources
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.ChoferForm.resources
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.AsignacionForm.resources
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.MainForm.resources
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.Properties.Resources.resources
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.RutaForm.resources
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.csproj.GenerateResource.cache
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\ControlAutobuses.exe.config
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\ControlAutobuses.exe
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\ControlAutobuses.pdb
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\BLL.dll
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\EL.dll
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\DAL.dll
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\BLL.pdb
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\EL.pdb
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\DAL.pdb
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlA.67B58D3D.Up2Date
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.exe
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.pdb
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\ControlAutobuses.exe.config
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\ControlAutobuses.exe
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\ControlAutobuses.pdb
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\BLL.dll
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\EL.dll
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\DAL.dll
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\BLL.pdb
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\EL.pdb
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\bin\Debug\DAL.pdb
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.csproj.AssemblyReference.cache
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.AutobusForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.ChoferForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.AsignacionForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.MainForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.Properties.Resources.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.RutaForm.resources
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.csproj.GenerateResource.cache
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlA.67B58D3D.Up2Date
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.exe
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\ControlAutobuses\obj\Debug\ControlAutobuses.pdb

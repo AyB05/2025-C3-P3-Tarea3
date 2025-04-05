@@ -1,0 +1,22 @@
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\BLL.dll
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\BLL.pdb
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\EL.dll
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\EL.pdb
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.dll
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.pdb
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\DAL.dll
+C:\Users\moise\OneDrive\Escritorio\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\DAL.pdb
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\BLL.dll
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\BLL.pdb
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\DAL.dll
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\EL.dll
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\DAL.pdb
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\bin\Debug\EL.pdb
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.dll
+C:\Users\Albert\Documents\Project0\Sistema de control de autobuses\Sistema de control de autobuses\ControlAutobuses\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,1 @@
+Simbolicamente creo y hago un commit con la capa logica de mi solucion
